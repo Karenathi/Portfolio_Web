@@ -1,4 +1,4 @@
-.nav-content>li>a>button:hover{
+.nav-content>button>a:hover{
     background: #FE0000;
     border: #FE0000 solid 3px; 
     box-shadow: 0 0 5px #FE0000,
