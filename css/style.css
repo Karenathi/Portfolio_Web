@@ -57,7 +57,7 @@ body{
 .a:hover::after{
     width: 100%;
 }
-.nav-content>li>a>button{
+.nav-content>a>li>button{
     padding: 0.5em 2em 0.5em 2em;
     text-transform: uppercase;
     border-radius: 8px;
