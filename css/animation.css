@@ -33,7 +33,7 @@ transition: 0.5s ease;
 }
 
 
-@media screen and (max-width: 1756px){
+@media screen and (max-width: 1280px){
     .nav-content{
         margin-left: 5rem;
     }
